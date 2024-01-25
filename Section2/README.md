@@ -1,11 +1,37 @@
 #  PGC AIML Foundations: Mathematics & Statistics Essentials🚀📊
 
-##  Statistics📊🎉
-Statistics is a fundamental tool of data scientists, who are expected to gather and analyze large amounts of structured and unstructured data and report on their findings.
+## Mathematics🧮
 
-or
+Mathematics is a field of study that deals with the properties and relationships of numbers, quantities, shapes, and patterns. It involves using logical reasoning to understand, analyze, and solve problems.
 
-Statistics is the science concerned with developing and studying methods for collecting, analyzing, interpreting and presenting empirical data.
+
+### [Different types of data](https://derangedphysiology.com/main/cicm-primary-exam/required-reading/research-methods-and-statistics/Chapter%203.0.1/different-types-data#:~:text=Numerical%20)
+
+### Categorical Data types🏷️
+Categorical data represents categories or labels without any specific order. It is qualitative data with no inherent numerical significance.
+
+**Nominal Data:**
+Nominal data represents categories or labels without any specific order. It is qualitative data with no inherent numerical significance.
+
+*Example:* Colors (e.g., red, blue, green), types of animals, gender.
+
+**Ordinal Data:**
+Ordinal data has categories with a meaningful order or ranking, but the intervals between the categories are not uniform or meaningful.
+
+*Example:* Educational levels (e.g., elementary, high school, college), customer satisfaction ratings (e.g., poor, satisfactory, excellent).
+
+### Numerical Data types🔢
+Numerical data includes values that are numeric and represent measurable quantities. It can be further categorized into discrete and continuous data.
+
+**Discrete Data:**
+Discrete data consists of separate, distinct values that are countable and often represent items that can be counted using whole numbers.
+
+*Example:* The number of students in a class, the count of cars in a parking lot.
+
+**Continuous Data:**
+Continuous data can take any value within a range and includes an infinite number of possible values. It is measured, not counted.
+
+*Example:* Height, weight, temperature, income.
 
 #### Difference between Population and Sample🌐👥
 A population refers to the entire set of individuals, objects, or measurements that share a common characteristic. A sample, on the other hand, is a subset of the population.
@@ -40,28 +66,10 @@ Forecasting is like predicting the future based on past and present data.
 Probability is a number between 0 and 1 that represents the likelihood of an event happening. A probability of 0 means the event is impossible, and a probability of 1 means the event is certain.
 
 
-### [Different types of data](https://derangedphysiology.com/main/cicm-primary-exam/required-reading/research-methods-and-statistics/Chapter%203.0.1/different-types-data#:~:text=Numerical%20)
 
-🏷️
-**Nominal Data:**
-Nominal data represents categories or labels without any specific order. It is qualitative data with no inherent numerical significance.
+##  Statistics📊🎉
+Statistics is a fundamental tool of data scientists, who are expected to gather and analyze large amounts of structured and unstructured data and report on their findings.
 
-*Example:* Colors (e.g., red, blue, green), types of animals, gender.
+or
 
-🥇
-**Ordinal Data:**
-Ordinal data has categories with a meaningful order or ranking, but the intervals between the categories are not uniform or meaningful.
-
-*Example:* Educational levels (e.g., elementary, high school, college), customer satisfaction ratings (e.g., poor, satisfactory, excellent).
-
-🔢
-**Discrete Data:**
-Discrete data consists of separate, distinct values that are countable and often represent items that can be counted using whole numbers.
-
-*Example:* The number of students in a class, the count of cars in a parking lot.
-
-📏
-**Continuous Data:**
-Continuous data can take any value within a range and includes an infinite number of possible values. It is measured, not counted.
-
-*Example:* Height, weight, temperature, income.
+Statistics is the science concerned with developing and studying methods for collecting, analyzing, interpreting and presenting empirical data.
